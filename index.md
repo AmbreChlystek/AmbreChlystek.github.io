@@ -12,11 +12,10 @@ hero_image_ratio: is-1by1
 Elève ingénieur en classe préparatoire intégrée
 
 
-Disponible XX mois à partir de Date
+Disponible 2 mois à partir de 01/07/2025
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[Ambre.Moreau[at]etu.unilasalle.fr](mailto:Ambre.Moreau@etu.unilasalle.fr)
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
-Permis B, voiture
 
